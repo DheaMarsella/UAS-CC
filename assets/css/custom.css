@@ -1,0 +1,18 @@
+.section-padding{
+    background: #6b3b26;
+}
+
+.section-title{
+    color: #ffd893;
+}
+
+.section-padding{
+    color: white;
+}
+.section-padding h3>*{
+    color: white !important;
+}
+.section-padding h2{
+    color: rgb(0, 0, 0) !important;
+}
+
